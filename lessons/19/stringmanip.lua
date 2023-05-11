@@ -1,6 +1,6 @@
 -- stringmanip.lua
 
-color = "#4525ba"
+color = "#4525baff"
 --  FF  00  00
 -- *R* *G* *B*
 -- 16 bits
@@ -16,5 +16,5 @@ print("Pure color: "..pure_color)
 -- get a substring of a string
 
 -- pure_color = string.sub(color, __, __)
-pure_color = string.sub(color, 2, 7)
+pure_color = string.sub(color, 2, #color)
 print("Pure color: "..pure_color)
