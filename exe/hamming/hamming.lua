@@ -17,5 +17,8 @@ print(Hamming)
 
 print(Hamming.compute("ASDFQWE", "AXDFASD"))
 
---print(Hamming)
+str = "QQWERTY"
+len_str = string.len(str)
+
+print(len_str)
 
