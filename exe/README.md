@@ -2,9 +2,9 @@
 
 ## Numbers
 
-- [ ] cars
+- [x] cars-assemble **concept**
 - [x] `Eliud's Eggs`
-- [ ] Square
+- [x] Square
 - [ ] Collatz
 - [ ] Grains
 
