@@ -4,7 +4,7 @@
 
 - [x] cars-assemble **concept**
 - [x] `Eliud's Eggs`
-- [x] Square
+- [x] Square-root
 - [ ] Collatz
 - [ ] Grains
 
